@@ -81,7 +81,7 @@ h1 {
     z-index: 3;
     font-family: "EXO";
     white-space: nowrap;
-    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color: white;
     color-scheme: white;
 }
